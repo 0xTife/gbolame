@@ -8,9 +8,9 @@
 <br />
 <br />
 
-Hi, I'm **Gbolahan Balogun**, a self-taught frontEnd web developer from Nigeria.
+Hi, I'm **Gbolahan Balogun** :smiley:, a self-taught frontEnd / app  developer from Nigeria.
 
-- 🔭 I’m currently working on my project [Easybank](https://github.com/gbolame/easybank)
+- :collision: I’m currently working on my project [Easybank](https://github.com/gbolame/easybank)
 - 🌱 I’m currently learning Node.js & Sql
 - 💬 you can reach out to me [here](https://twitter.com/gbola_me)
 
