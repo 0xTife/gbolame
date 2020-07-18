@@ -19,4 +19,8 @@ Hi, I'm **Gbolahan Balogun** :smiley:, a self-taught frontEnd / app  developer f
 <code><img height="20" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-javascript-48.png"></code>
 <code><img height="20" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-sass-24.png"></code>
 <code><img height="20" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-html-5-24.png"></code>
+<code><img height="20" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-bootstrap.svg"></code>
+<code><img height="20" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-css3-24.png"></code>
+<code><img height="20" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-python.svg"></code>
+<code><img height="20" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-django.svg"></code>
 
