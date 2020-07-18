@@ -1,17 +1,14 @@
-### Hi there, I'm [Gbolame!](https://twitter.com/gbola_me) 👋
+### Hi there, I'm [Gbolahan Balogun!](https://twitter.com/gbola_me) 👋
 
-<a href="https://twitter.com/gbola_me">
-  <img align="left" alt="gbolame | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
 
 
 <br />
 <br />
 
-Hi, I'm **Gbolahan Balogun** :smiley:, a self-taught frontEnd / app  developer from Nigeria.
+Hi :smiley:, I'm  a self-taught frontEnd / end developer from Nigeria.
 
 - :collision: I’m currently working on my project [Easybank](https://github.com/gbolame/easybank)
-- 🌱 I’m currently learning Node.js & Sql
+- 🌱 I’m currently learning Node.js 
 - 💬 you can reach out to me [here](https://twitter.com/gbola_me)
 
 **Languages and Tools:**  
@@ -23,4 +20,12 @@ Hi, I'm **Gbolahan Balogun** :smiley:, a self-taught frontEnd / app  developer f
 <code><img height="20" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-css3-24.png"></code>
 <code><img height="20" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-python.svg"></code>
 <code><img height="20" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-django.svg"></code>
+<code><img height="20" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-sql-26.png"></code>
 
+reach out to me
+<a href="https://twitter.com/gbola_me">
+  <img align="left" alt="gbolame | Twitter" width="21px" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-twitter-48.png" />
+</a>
+<a href="">
+  <img algin="left" alt="gbolame | Linkedin" width="21px" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-linkedin-64.png"/>
+</a>
