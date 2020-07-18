@@ -26,6 +26,6 @@ Hi :smiley:, I'm  a self-taught frontEnd developer from Nigeria.
 <a href="https://twitter.com/gbola_me">
   <img align="left" alt="gbolame | Twitter" width="21px" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-twitter-48.png" />
 </a>
-<a href="">
+<a href="https://www.linkedin.com/in/gbolahan-balogun-a704b7167/">
   <img algin="left" alt="gbolame | Linkedin" width="21px" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-linkedin-64.png"/>
 </a>
