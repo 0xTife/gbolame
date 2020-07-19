@@ -21,7 +21,7 @@ Hi :smiley:, I'm  a self-taught frontEnd developer from Nigeria.
 <code><img height="20" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-django.svg"></code>
 <code><img height="20" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-sql-26.png"></code>
 
-<p>- 💬 you can reach out to me [here]: </p>
+<p>- 💬 Social Links </p>
 
 <a href="https://twitter.com/gbola_me">
   <img align="left" alt="gbolame | Twitter" width="41px" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-twitter-48.png" />
