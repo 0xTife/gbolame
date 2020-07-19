@@ -7,8 +7,8 @@
 
 Hi :smiley:, I'm  a self-taught frontEnd developer from Nigeria.
 
-- :collision: I’m currently working on my project [Easybank](www.gbolame-easy-bank.netlify.app)
-- 🌱 I’m currently learning Node.js 
+- :collision: I’m currently working on my project [Easybank](https://gbolame-easy-bank.netlify.app)
+- 🌱 I’m currently learning Node.js
 
 **Languages and Tools:**  
 
