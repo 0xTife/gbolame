@@ -5,8 +5,8 @@
 <br />
 <br />
 
-Hi :smiley:, I'm  a self-taught frontEnd developer from Nigeria.
-
+Hi :smiley:, I'm  a self-taught frontEnd developer from Nigeria, Throughout my career, i have demonstrated the highest level of service and commitment to the mission of any organization i work for.
+i believe that i would make a valuable asset to your team.
 - :collision: I’m currently working on my project [Easybank](https://gbolame-easy-bank.netlify.app)
 - 🌱 I’m currently learning Node.js
 
