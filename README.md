@@ -1,4 +1,4 @@
-### Hi there, I'm [Gbolahan Balogun!](https://twitter.com/gbola_me) 👋
+### Hi there 👋
 
 
 
@@ -21,11 +21,3 @@ i believe that i would make a valuable asset to your team.
 <code><img height="20" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-django.svg"></code>
 <code><img height="20" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-sql-26.png"></code>
 
-<p>- 💬 Social Links </p>
-
-<a href="https://twitter.com/gbola_me">
-  <img align="left" alt="gbolame | Twitter" width="41px" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-twitter-48.png" />
-</a>
-<a href="https://www.linkedin.com/in/gbolahan-balogun-a704b7167/">
-  <img algin="left" alt="gbolame | Linkedin" width="41px" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-linkedin-64.png"/>
-</a>
