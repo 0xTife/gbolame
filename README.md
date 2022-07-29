@@ -8,7 +8,7 @@
 Hi :smiley:, I am a self-taught frontend/blockchain developer, Throughout my career, i have demonstrated the highest level of service and commitment to the mission of any organization i work for.
 i believe that i would make a valuable asset to your team.
 - :collision: I’m currently working on my project [Easybank](https://gbolame-easy-bank.netlify.app)
-- 🌱 I’m currently learning Node.js
+- 🌱 Currently a Nodejs and Web3 addict
 
 **Languages and Tools:**  
 
